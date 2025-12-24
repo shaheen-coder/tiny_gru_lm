@@ -31,7 +31,8 @@ This project is intentionally simple and educational — designed to help you un
 ├── model.py # GRU Language model 
 ├── tokenizer.model # SentencePiece tokenizer model
 ├── tokenizer.py # SenetencePiece custom tokenizer trainer
-└── train.py # Training Loop 
+└── train.py # Training Loop
+```
 ---
 
 🧠 Model Architecture
